@@ -5,6 +5,138 @@ Ein mittels KI generiertes umfangreiches Hörbuch zu den Grundlagen von KI.
 This work (including all audio files and text files) is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 To view a copy of this license, visit: http://creativecommons.org
 
+# KI-Hörbuch — Inhaltsverzeichnis & Audio
+
+**28 Kapitel in 7 Teilen**  
+**Gesamtdauer: 11 Stunden 14 Minuten**
+
+---
+
+### Gesamtübersicht
+
+| Teil | Kapitel | Dauer | Download |
+|:-----|:--------|:------|:---------|
+| [**Teil I — Grundlagen**](#teil-i--grundlagen) | 1–4 | 1 Std. 31 Min. | [MP3 herunterladen](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_I_Grundlagen.mp3) |
+| [**Teil II — Kernkompetenzen**](#teil-ii--kernkompetenzen) | 5–8 | 1 Std. 24 Min. | [MP3 herunterladen](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_II_Kernkompetenzen.mp3) |
+| [**Teil III — Werkzeuge & Infrastruktur**](#teil-iii--werkzeuge--infrastruktur) | 9–11 | 1 Std. 18 Min. | [MP3 herunterladen](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_III_Werkzeuge_Infrastruktur.mp3) |
+| [**Teil IV — Anwendungslandschaft**](#teil-iv--anwendungslandschaft) | 12–18 | 2 Std. 55 Min. | [MP3 herunterladen](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_IV_Anwendungslandschaft.mp3) |
+| [**Teil V — Praxis & Methodik**](#teil-v--praxis--methodik) | 19–21 | 1 Std. 19 Min. | [MP3 herunterladen](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_V_Praxis_Methodik.mp3) |
+| [**Teil VI — Herausforderungen**](#teil-vi--herausforderungen) | 22–25 | 1 Std. 43 Min. | [MP3 herunterladen](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_VI_Herausforderungen.mp3) |
+| [**Teil VII — Ausblick**](#teil-vii--ausblick) | 26–28 | 1 Std. 04 Min. | [MP3 herunterladen](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_VII_Ausblick.mp3) |
+| **Gesamt** | **28 Kapitel** | **11 Std. 14 Min.** | |
+
+---
+
+## Teil I — Grundlagen
+
+**Dauer: 1 Std. 31 Min.**  
+[Direktdownload Teil I (MP3)](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_I_Grundlagen.mp3)
+
+<audio controls src="https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_I_Grundlagen.mp3"></audio>
+
+| Kap. | Titel | Dauer |
+|:----:|:------|:-----:|
+| 1 | Was ist Künstliche Intelligenz? | 23:35 |
+| 2 | Wie lernt eine Maschine? | 26:43 |
+| 3 | Neuronale Netze — Die Architektur des Lernens | 18:31 |
+| 4 | Die Transformer-Revolution | 22:12 |
+
+---
+
+## Teil II — Kernkompetenzen
+
+**Dauer: 1 Std. 24 Min.**  
+[Direktdownload Teil II (MP3)](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_II_Kernkompetenzen.mp3)
+
+<audio controls src="https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_II_Kernkompetenzen.mp3"></audio>
+
+| Kap. | Titel | Dauer |
+|:----:|:------|:-----:|
+| 5 | Natürliche Sprache — Wenn Maschinen sprechen lernen | 19:32 |
+| 6 | Computer Vision — Wenn Maschinen sehen lernen | 22:35 |
+| 7 | Generative KI — Vom Text zum Bild zum Video | 26:03 |
+| 8 | Multimodalität — Wenn KI über die Grenzen der Modalitäten blickt | 15:49 |
+
+---
+
+## Teil III — Werkzeuge & Infrastruktur
+
+**Dauer: 1 Std. 18 Min.**  
+[Direktdownload Teil III (MP3)](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_III_Werkzeuge_Infrastruktur.mp3)
+
+<audio controls src="https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_III_Werkzeuge_Infrastruktur.mp3"></audio>
+
+| Kap. | Titel | Dauer |
+|:----:|:------|:-----:|
+| 9 | Das Modell-Ökosystem — Open Source vs. kommerziell | 24:07 |
+| 10 | Hardware — Die physische Basis der KI | 27:39 |
+| 11 | Lokal oder Cloud — Die grundlegende Entscheidung | 26:16 |
+
+---
+
+## Teil IV — Anwendungslandschaft
+
+**Dauer: 2 Std. 55 Min.**  
+[Direktdownload Teil IV (MP3)](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_IV_Anwendungslandschaft.mp3)
+
+<audio controls src="https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_IV_Anwendungslandschaft.mp3"></audio>
+
+| Kap. | Titel | Dauer |
+|:----:|:------|:-----:|
+| 12 | Text und Wissen — KI im Umgang mit Sprache und Information | 23:18 |
+| 13 | Bild und Design — KI im visuellen Bereich | 26:03 |
+| 14 | Code und Software — KI in der Softwareentwicklung | 26:09 |
+| 15 | Audio und Sprache — KI im akustischen Bereich | 26:15 |
+| 16 | Wissenschaft und Forschung — KI als Werkzeug der Erkenntnis | 21:31 |
+| 17 | Business und Wirtschaft — KI im wirtschaftlichen Wandel | 26:43 |
+| 18 | KI im Alltag — Die unsichtbare Intelligenz | 25:22 |
+
+---
+
+## Teil V — Praxis & Methodik
+
+**Dauer: 1 Std. 19 Min.**  
+[Direktdownload Teil V (MP3)](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_V_Praxis_Methodik.mp3)
+
+<audio controls src="https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_V_Praxis_Methodik.mp3"></audio>
+
+| Kap. | Titel | Dauer |
+|:----:|:------|:-----:|
+| 19 | Prompt Engineering — Die Kunst der Anweisung | 25:53 |
+| 20 | RAG und Fine-Tuning — KI anpassen und verankern | 25:57 |
+| 21 | Agenten — Autonome KI-Systeme | 27:04 |
+
+---
+
+## Teil VI — Herausforderungen
+
+**Dauer: 1 Std. 43 Min.**  
+[Direktdownload Teil VI (MP3)](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_VI_Herausforderungen.mp3)
+
+<audio controls src="https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_VI_Herausforderungen.mp3"></audio>
+
+| Kap. | Titel | Dauer |
+|:----:|:------|:-----:|
+| 22 | Zuverlässigkeit — Halluzinationen, Vertrauen, Verifikation | 26:12 |
+| 23 | Ethik und Gesellschaft — Bias, Fairness, Arbeitsmarkt | 24:29 |
+| 24 | Recht und Regulierung — EU AI Act, Datenschutz, Urheberrecht | 26:56 |
+| 25 | Sicherheit und Alignment — KI-Sicherheit, Missbrauch, Kontrolle | 25:33 |
+
+---
+
+## Teil VII — Ausblick
+
+**Dauer: 1 Std. 04 Min.**  
+[Direktdownload Teil VII (MP3)](https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_VII_Ausblick.mp3)
+
+<audio controls src="https://github.com/dfcbear/KI-Hoerbuch/releases/download/0.0.2/Teil_VII_Ausblick.mp3"></audio>
+
+| Kap. | Titel | Dauer |
+|:----:|:------|:-----:|
+| 26 | Wo steht die KI heute? — Stand 2026 | 23:37 |
+| 27 | Wohin geht die Reise? — AGI, Trends, offene Fragen | 25:53 |
+| 28 | Der mündige Anwender — Epilog | 14:27 |
+
 # Quellenverzeichnis — KI-Hörbuch
 
 Alle Quellen sind mit DOI (Digital Object Identifier), arXiv-ID oder Originallink belegt. Grundwissen, das dem allgemeinen Wissensstand (des eingesetzten KI-Modells) entspricht, ist nicht aufgeführt.
